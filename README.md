@@ -4,3 +4,4 @@
 
 * Automated technical recruiting
 * Simple file encryption & sharing ([sh](https://github.com/robotnoises/secrethandshake))
+* Automate documentation by parsing code files
